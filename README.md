@@ -23,6 +23,7 @@
 ```
     Branch 1 starting name: sardart
     Branch 2 starting name: michaelh2
+    Branch 3 starting name: completed_final_project
 ```
 
 ### References 
@@ -50,8 +51,6 @@ https://www.w3schools.com/python/ref_func_eval.asp
 
 ## Milestone 3: Virtual Check-In
 
-Indicate what percentage of the project you have left to complete and how confident you feel. 
-
 **Completion Percentage**: 90%
 
 **Confidence**: 
@@ -78,14 +77,6 @@ When in 'GAME' mode, the user is given an equation to solve by entering the miss
 enters the missing values by clicking the number buttons. As this is a simple program, when in 'GAME' mode, equation sign
 and parenthesis buttons are disabled. The user clicked the '=' sign button to view if their answer is right or wrong.
 clicking the 'RESET' or the 'MODE' button twice, displays a new equation.
-
-### Errors and Constraints
-
-Found in GitHub issue queue
-
-### Peer Evaluation
-
-Completed
 
 ### Reflection
 
